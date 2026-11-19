@@ -1,18 +1,111 @@
-<h1 align="center">Hi 👋, I'm Hamza Shah</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Next.js, React, JavaScript, TypeScript & Modern Web Technologies**
+<!--
+  H9DevX | GitHub Profile README
+-->
 
-- 💬 Ask me about **React, Next.js, JavaScript, Linux, GitHub & Frontend Development**
+<div align="center">
 
-- 📫 How to reach me **hamzashah0411@gmail.com**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=H9DevX&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Building%20clean%20and%20meaningful%20web%20experiences&descAlignY=60&descSize=14" width="100%" alt="H9DevX profile banner" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/hamzashah.001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzashah.001" height="30" width="40" /></a>
+  <h2>Hi, I'm Hamza Shah 👋</h2>
+  <h3>Frontend Developer · Pakistan 🇵🇰</h3>
+
+  <p>
+    I enjoy building modern, responsive web experiences and exploring technologies
+    that make the web better.
+  </p>
+
+  <p>
+    <a href="https://github.com/h9devx">
+      <img src="https://img.shields.io/badge/GitHub-H9DevX-181717?style=flat&logo=github&logoColor=white" />
+    </a>
+    <a href="mailto:hamzashah0411@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/hamzashah.001">
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Next.js, React, JavaScript, TypeScript** and modern web technologies.
+- 💡 Interested in **frontend development, clean UI, responsive design** and web performance.
+- 💬 Feel free to talk to me about **React, Next.js, JavaScript, Linux, Git and frontend development**.
+- 📫 Reach me at **[hamzashah0411@gmail.com](mailto:hamzashah0411@gmail.com)**.
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+### Backend & Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,python,cpp&perline=5" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h9devx&" alt="h9devx" /></p>
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,photoshop,illustrator&perline=6" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/h9devx">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=h9devx&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=64748B&icon_color=2563EB" />
+  </a>
+  <a href="https://github.com/h9devx">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h9devx&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=64748B" />
+  </a>
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=h9devx&hide_border=true&background=00000000&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&dates=64748B" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h9devx&theme=github-compact&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=h9devx&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%" />
+</div>
