@@ -41,47 +41,21 @@
 
 ## 🧰 Tech Stack
 
-### 🌐 Frontend Development
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" alt="HTML CSS JavaScript TypeScript React Next.js" />
-</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,java,python,cpp,mysql,figma,photoshop,illustrator,git,github,vscode,linux&perline=19" alt="HTML CSS JavaScript TypeScript React Next.js Node.js NestJS Java Python C++ MySQL Figma Photoshop Illustrator Git GitHub VS Code Linux" />
 
-### ⚙️ Backend Development
+  <br/><br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs&perline=5" alt="Node.js NestJS" />
-</p>
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp&perline=5" alt="Java Python C++" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-</p>
-
-### 🎨 Design Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&perline=3" alt="Figma Photoshop Illustrator" />
-</p>
-
-### 🛠️ Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" alt="Git GitHub VS Code Linux" />
   <a href="https://antigravity.google/" target="_blank">
-    <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="48" height="48" alt="Google Antigravity" />
+    <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="42" height="42" alt="Google Antigravity" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://zapier.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="48" height="48" alt="Zapier" />
+    <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="42" height="42" alt="Zapier" />
   </a>
-</p>
+
+</div>
 
 ---
 
