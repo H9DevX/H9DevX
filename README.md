@@ -122,15 +122,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:1E3A8A&height=100&section=header&text=CONSISTENCY%20IS%20THE%20KEY&fontSize=23&fontColor=BFDBFE&fontAlignY=45&desc=Every%20contribution%20moves%20you%20forward&descSize=12&descAlignY=72" width="100%" alt="Contribution streak cinematic banner" />
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=h9devx&hide_border=true&background=020617&ring=38BDF8&fire=60A5FA&currStreakLabel=93C5FD&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1E3A8A" width="95%" alt="H9DevX GitHub Contribution Streak" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/BUILDING%20EVERY%20DAY-020617?style=for-the-badge&labelColor=1E3A8A&color=020617" alt="Building Every Day" />
+  <img src="https://streak-stats.demolab.com?user=h9devx&hide_border=true&background=00000000&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&dates=64748B" alt="H9DevX Contribution Streak" />
 
 </div>
 
