@@ -116,11 +116,7 @@
 
 <div align="center">
 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=h9devx&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=12"
-    width="100%"
-    alt="H9DevX GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=h9devx&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" width="100%" alt="H9DevX GitHub Trophies" />
 
 </div>
 
