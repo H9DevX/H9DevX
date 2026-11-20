@@ -22,9 +22,6 @@
     <a href="mailto:hamzashah0411@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://instagram.com/hamzashah.001">
-      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
   </p>
 
 </div>
@@ -125,7 +122,15 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=h9devx&theme=dark&hide_border=true&background=0B1020&ring=8B5CF6&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" width="90%" alt="H9DevX Cinematic Contribution Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:1E3A8A&height=100&section=header&text=CONSISTENCY%20IS%20THE%20KEY&fontSize=23&fontColor=BFDBFE&fontAlignY=45&desc=Every%20contribution%20moves%20you%20forward&descSize=12&descAlignY=72" width="100%" alt="Contribution streak cinematic banner" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=h9devx&hide_border=true&background=020617&ring=38BDF8&fire=60A5FA&currStreakLabel=93C5FD&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1E3A8A" width="95%" alt="H9DevX GitHub Contribution Streak" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/BUILDING%20EVERY%20DAY-020617?style=for-the-badge&labelColor=1E3A8A&color=020617" alt="Building Every Day" />
 
 </div>
 
