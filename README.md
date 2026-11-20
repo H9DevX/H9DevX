@@ -1,143 +1,185 @@
 
+<!--
+  H9DevX | GitHub Profile README
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Hamza%20Shah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=H9DevX&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Building%20clean%20and%20meaningful%20web%20experiences&descAlignY=60&descSize=14" width="100%" alt="H9DevX profile banner" />
+
+  <h2>Hi, I'm Hamza Shah 👋</h2>
+  <h3>Frontend Developer · Pakistan 🇵🇰</h3>
+
+  <p>
+    I enjoy building modern, responsive web experiences and exploring technologies
+    that make the web better.
+  </p>
+
+  <p>
+    <a href="https://github.com/h9devx">
+      <img src="https://img.shields.io/badge/GitHub-H9DevX-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:hamzashah0411@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://instagram.com/hamzashah.001">
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
 
 </div>
 
-<h2 align="center">Hi 👋, I'm Hamza Shah</h2>
+---
 
-<h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
+## 👨‍💻 About Me
 
-<p align="center">
-  I love building modern, responsive, and user-friendly web experiences.
-  Currently exploring Next.js, React, TypeScript, and modern web technologies.
-</p>
+- 🌱 Currently learning **Next.js, React, JavaScript, TypeScript** and modern web technologies.
+- 💡 Interested in **Frontend Development, Clean UI, Responsive Design** and Web Performance.
+- 🐧 Daily driving **Arch Linux with Omarchy**.
+- ⚡ Love exploring Linux, developer tools and modern technologies.
+- 💬 Feel free to talk to me about **React, Next.js, JavaScript, Linux, Git and Frontend Development**.
+- 📫 Reach me at **[hamzashah0411@gmail.com](mailto:hamzashah0411@gmail.com)**.
 
 ---
 
-### 👨‍💻 About Me
+## 🧰 Tech Stack
 
-- 🌱 Currently learning **Next.js, React, JavaScript & TypeScript**
-- 💬 Ask me about **React, Next.js, JavaScript, Linux, GitHub & Frontend Development**
-- 💻 Passionate about creating beautiful and functional user interfaces
-- 🐧 Daily driving **Arch Linux with Omarchy**
-- ⚡ Always learning and exploring new technologies
+### 🌐 Frontend Development
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" alt="HTML CSS JavaScript TypeScript React Next.js" />
+</p>
 
-### 🌐 Connect With Me
+### ⚙️ Backend Development
 
-<p align="left">
-  <a href="mailto:hamzashah0411@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs&perline=5" alt="Node.js NestJS" />
+</p>
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp&perline=5" alt="Java Python C++" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</p>
+
+### 🎨 Design Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&perline=3" alt="Figma Photoshop Illustrator" />
+</p>
+
+### 🛠️ Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" alt="Git GitHub VS Code Linux" />
+</p>
+
+<p>
+  <a href="https://antigravity.google/">
+    <img src="https://img.shields.io/badge/Google%20Antigravity-AI%20IDE-4285F4?style=flat&logo=google&logoColor=white" alt="Google Antigravity" />
   </a>
-  <a href="https://instagram.com/hamzashah.001">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/H9DevX">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-</p>
-
-**Backend Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
-</p>
-
-**Programming Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python" />
-</p>
-
-**Database**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-**Design Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-</p>
-
-**Developer Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-  <a href="https://antigravity.google/" target="_blank">
-    <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" alt="Google Antigravity" width="48" height="48" />
-  </a>
-</p>
-
-<p>
   <a href="https://zapier.com/">
-    <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" alt="Zapier" />
   </a>
 </p>
 
 ---
 
-### 🐧 Operating System
+## 🐧 Operating System
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arch" />
-</p>
+<div align="center">
 
-**Daily Driving Arch Linux with Omarchy Desktop Environment**
+  <img src="https://skillicons.dev/icons?i=arch" width="65" height="65" alt="Arch Linux" />
 
----
+  <h3>Arch Linux</h3>
 
-### 📊 GitHub Analytics
+  <p>Daily Driving Arch Linux with Omarchy Desktop Environment</p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H9DevX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H9DevX&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Desktop-Omarchy-2563EB?style=for-the-badge" alt="Omarchy" />
+
+</div>
 
 ---
 
-### 🔥 Contribution Streak
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=H9DevX&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+  <a href="https://github.com/h9devx">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=h9devx&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=64748B&icon_color=2563EB" alt="H9DevX GitHub Statistics" />
+  </a>
+
+  <a href="https://github.com/h9devx">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h9devx&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=64748B" alt="H9DevX Top Languages" />
+  </a>
+
+</div>
 
 ---
 
-### 📈 Contribution Activity
+## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H9DevX&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=h9devx&hide_border=true&background=00000000&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&dates=64748B" alt="H9DevX Contribution Streak" />
+
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=H9DevX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h9devx&theme=github-compact&hide_border=true&area=true" width="100%" alt="H9DevX Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=h9devx&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%" alt="H9DevX GitHub Trophies" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <a href="https://github.com/h9devx">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="mailto:hamzashah0411@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://instagram.com/hamzashah.001">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ Thanks for Visiting My Profile!
+  <p><i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%" />
+  <h3>Keep Building. Keep Learning. Keep Growing. 🚀</h3>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
