@@ -78,6 +78,9 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" alt="Git GitHub VS Code Linux" />
+  <a href="https://antigravity.google/" target="_blank">
+    <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="48" height="48" alt="Google Antigravity" />
+  </a>
 </p>
 
 <p>
