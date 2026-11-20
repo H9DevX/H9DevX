@@ -121,11 +121,17 @@
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=h9devx&hide_border=true&background=00000000&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&dates=64748B" alt="H9DevX Contribution Streak" />
+  <p><i>Consistency is the key to growth. Keep coding, keep contributing!</i></p>
+
+  <img
+    src="https://streak-stats.demolab.com?user=h9devx&theme=transparent&hide_border=true&background=00000000&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&dates=94A3B8&currStreakNum=2563EB&sideNums=2563EB"
+    alt="H9DevX GitHub Contribution Streak"
+    width="85%"
+  />
 
 </div>
 
