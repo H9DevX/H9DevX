@@ -43,7 +43,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,java,python,cpp,mysql,figma,photoshop,illustrator,git,github,vscode,linux&perline=19" alt="HTML CSS JavaScript TypeScript React Next.js Node.js NestJS Java Python C++ MySQL Figma Photoshop Illustrator Git GitHub VS Code Linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,cpp,mysql,figma,github,vscode,linux&perline=14" alt="HTML CSS JavaScript TypeScript React Next.js Node.js Python C++ MySQL Figma GitHub VS Code Linux" />
 
   <br/><br/>
 
