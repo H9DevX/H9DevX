@@ -81,14 +81,8 @@
   <a href="https://antigravity.google/" target="_blank">
     <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.svg" width="48" height="48" alt="Google Antigravity" />
   </a>
-</p>
-
-<p>
-  <a href="https://antigravity.google/">
-    <img src="https://img.shields.io/badge/Google%20Antigravity-AI%20IDE-4285F4?style=flat&logo=google&logoColor=white" alt="Google Antigravity" />
-  </a>
-  <a href="https://zapier.com/">
-    <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" alt="Zapier" />
+  <a href="https://zapier.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/zapier/FF4A00" width="48" height="48" alt="Zapier" />
   </a>
 </p>
 
