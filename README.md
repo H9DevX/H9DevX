@@ -17,13 +17,13 @@
 
   <p>
     <a href="https://github.com/h9devx">
-      <img src="https://img.shields.io/badge/GitHub-H9DevX-181717?style=flat&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-H9DevX-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:hamzashah0411@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://instagram.com/hamzashah.001">
-      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" />
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
 
@@ -47,13 +47,13 @@
 ### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" alt="Frontend Technologies" />
 </p>
 
 ### ⚙️ Backend & Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,python,cpp&perline=5" alt="Backend and programming languages" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,python,cpp&perline=5" alt="Backend and Programming Languages" />
 </p>
 
 ### 🗄️ Database
@@ -65,13 +65,20 @@
 ### 🎨 Design Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&perline=3" alt="Design tools" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator&perline=3" alt="Design Tools" />
 </p>
 
 ### 🛠️ Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" alt="Developer tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" alt="Developer Tools" />
+</p>
+
+<p>
+  <a href="https://antigravity.google/">
+    <img src="https://img.shields.io/badge/Google%20Antigravity-AI%20IDE-4285F4?style=flat&logo=google&logoColor=white" alt="Google Antigravity" />
+  </a>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" alt="Zapier" />
 </p>
 
 ---
@@ -85,8 +92,8 @@
   <h3>Arch Linux</h3>
   <p>Daily Driving Arch Linux with Omarchy</p>
 
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Desktop-Omarchy-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Desktop-Omarchy-2563EB?style=for-the-badge" alt="Omarchy" />
 
 </div>
 
@@ -143,15 +150,15 @@
 <div align="center">
 
   <a href="https://github.com/h9devx">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <a href="mailto:hamzashah0411@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
   <a href="https://instagram.com/hamzashah.001">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
 </div>
