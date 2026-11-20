@@ -121,17 +121,25 @@
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
-  <p><i>Consistency is the key to growth. Keep coding, keep contributing!</i></p>
+  <p>
+    <i>Consistency is the key to growth. Every contribution counts.</i>
+  </p>
 
-  <img
-    src="https://streak-stats.demolab.com?user=h9devx&theme=transparent&hide_border=true&background=00000000&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&dates=94A3B8&currStreakNum=2563EB&sideNums=2563EB"
-    alt="H9DevX GitHub Contribution Streak"
-    width="85%"
-  />
+  <a href="https://github.com/h9devx">
+    <img
+      src="https://streak-stats.demolab.com?user=h9devx&theme=transparent&hide_border=true&border_radius=12&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&stroke=E2E8F0"
+      alt="H9DevX GitHub Contribution Streak"
+      width="75%"
+    />
+  </a>
+
+  <p>
+    <sub>Building every day, one commit at a time.</sub>
+  </p>
 
 </div>
 
