@@ -96,7 +96,7 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=h9devx&hide_border=true&background=00000000&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&dates=64748B" alt="H9DevX Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=h9devx&hide_border=true&background=1F2230&ring=FF9B6B&fire=FF9B6B&currStreakLabel=FF6B8A&sideLabels=FF6B8A&dates=AAB0C0&currStreakNum=FFE082&sideNums=FFE082&stroke=2B2E3D" alt="H9DevX GitHub Contribution Streak" />
 
 </div>
 
