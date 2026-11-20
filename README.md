@@ -125,21 +125,7 @@
 
 <div align="center">
 
-  <p>
-    <i>Consistency is the key to growth. Every contribution counts.</i>
-  </p>
-
-  <a href="https://github.com/h9devx">
-    <img
-      src="https://streak-stats.demolab.com?user=h9devx&theme=transparent&hide_border=true&border_radius=12&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&stroke=E2E8F0"
-      alt="H9DevX GitHub Contribution Streak"
-      width="75%"
-    />
-  </a>
-
-  <p>
-    <sub>Building every day, one commit at a time.</sub>
-  </p>
+  <img src="https://streak-stats.demolab.com?user=h9devx&theme=dark&hide_border=true&background=0B1020&ring=8B5CF6&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" width="90%" alt="H9DevX Cinematic Contribution Streak" />
 
 </div>
 
@@ -175,10 +161,6 @@
 
   <a href="mailto:hamzashah0411@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-
-  <a href="https://instagram.com/hamzashah.001">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
 </div>
